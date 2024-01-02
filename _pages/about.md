@@ -1,10 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About me"
 excerpt: "Hello!"
 author_profile: true
 redirect_from: 
-  - /aboutme/
+  - /about/
   - /about.html
 ---
 
