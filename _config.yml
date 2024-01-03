@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Calvin Cheng"
   avatar           : "Calvin Cheng - square.jpg"
-  bio              : 
+  bio              : " "
   location         : "Kuala Lumpur, MY"
-  employer         :
+  employer         : 
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "calvinchengkw@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

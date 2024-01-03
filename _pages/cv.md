@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-=====
+======
 # Education
 
 **MSc. in Public Policy (Distinction), London School of Economics and Political Science**, 2023
