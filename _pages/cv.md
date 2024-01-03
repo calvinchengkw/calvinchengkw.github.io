@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. in Public Policy (Distinction), London School of Economics and Political Science, 2023
+  * Capstone project: Index-linking social transfers in developing countries to safeguard vulnerable communities during economic uncertainty - in collaboration with the World Bank Social Protecion and Jobs Global Practice
+  * Extended essay: The causal effect of retirement on wellbeing in Malaysia: a regression discontinuity approach
+  *Key modules: Labour economics, Advanced empirical methods for policy analysis, Causal Inference for observational and experimental studies
+* B.Econ. in Economics and Econometrics, Monash University Clayton, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2017-Present** Institute of Strategic and International Studies (ISIS) Malaysia
+  * Fellow in the Economics, Trade, and Regional Integration programme
+  * Past positions held: Senior Analyst, Analyst, Researcher
+  
+* **2015-2017** Public Mutual Berhad
+  * Economics Executive in the Economics division
   
 Skills
 ======
@@ -35,6 +34,13 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Past consulting projects
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
 Publications
 ======
