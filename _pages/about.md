@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an economic policy researcher and practitoner based in KL, Malaysia with more than 8 years of experience in policy research, economics, and consulting. I am driven to find answers to difficult policy questions.
+I am an economic policy researcher and practitoner based in KL, Malaysia with more than 8 years of experience in policy research, economics, and consulting. I am driven by the curiosity find answers to difficult policy questions.
 
 **Current**
 Currently a research fellow at the Institute of Strategic and International Studies (ISIS) Malaysia. I lead the economic research work to inform and influence evidence-based policymaking. I have consulted for federal and state governments on policy projects, collaborated with multinational development institutions on research, and worked with civil society organizations on the ground. I hold a Master’s degree from the London School of Economics and Political Science (LSE) and a Bachelor’s degree from Monash University Clayton. 
