@@ -3,6 +3,12 @@ main:
   - title: "About me"
     url: / 
 
+  - title: "Research"
+    url: /research/
+
+  - title: "Consulting"
+    url: /consulting/
+
   - title: "Publications"
     url: /publications/  
 
