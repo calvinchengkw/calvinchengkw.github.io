@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 [Download CV as a PDF](/files/cv2023.pdf){: .btn download="cv2023"}
-
+<div style="text-align: center;">
+  ...
+</div>
 # Education
 
 **MSc. in Public Policy (Distinction), London School of Economics and Political Science**, 2023
@@ -18,6 +20,10 @@ redirect_from:
 
 **B.Econ. in Economics and Econometrics, Monash University Clayton**, 2014
 
+<div style="text-align: center;">
+  ...
+</div>
+
 # Work experience
 
 **2017-Present:** **Fellow in the Economics, Trade, and Regional Integration programme** at the Institute of Strategic and International Studies (ISIS) Malaysia
@@ -25,7 +31,11 @@ redirect_from:
   
 **2015-2017:** **Economics Executive** at Public Mutual Berhad
   * Bloomberg terminal, macroeconomic forecasting and analysis, database management
-  
+
+<div style="text-align: center;">
+  ...
+</div>
+
 ## Skills
 
 * Economic and policy analysis
