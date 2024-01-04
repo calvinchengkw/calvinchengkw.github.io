@@ -12,13 +12,13 @@ redirect_from:
 </div>
 # Education
 
-**MSc. in Public Policy (Distinction), London School of Economics and Political Science**, 2023
-* Capstone project: Index-linking social transfers in developing countries to safeguard vulnerable communities during economic uncertainty - *in collaboration with the World Bank Social Protecion and Jobs Global Practice*
-* Extended essay: The causal effect of retirement on wellbeing in Malaysia: a regression discontinuity approach
-* Key modules: Labour economics, Advanced empirical methods for policy analysis, Causal Inference for observational and experimental studies
+  **MSc. in Public Policy (Distinction), London School of Economics and Political Science**, 2023
+  * Capstone project: Index-linking social transfers in developing countries to safeguard vulnerable communities during economic uncertainty - *in collaboration with the World Bank Social Protecion and Jobs Global Practice*
+  * Extended essay: The causal effect of retirement on wellbeing in Malaysia: a regression discontinuity approach
+  * Key modules: Labour economics, Advanced empirical methods for policy analysis, Causal Inference for observational and experimental studies
 
 
-**B.Econ. in Economics and Econometrics, Monash University Clayton**, 2014
+  **B.Econ. in Economics and Econometrics, Monash University Clayton**, 2014
 
 <div style="text-align: center;">
   ...
