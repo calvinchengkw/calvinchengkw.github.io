@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV](/files/cv2023.pdf){: .btn download="cv2023"}
+[Download CV as a PDF](/files/cv2023.pdf){: .btn download="cv2023"}
 
 # Education
 
