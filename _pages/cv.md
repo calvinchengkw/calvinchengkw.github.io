@@ -6,20 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-<#embed src="{{ site.baseurl }}/files/cv2023.pdf" width="600" height="700" type='application/pdf'>
-
-<a href="/files/cv2023.pdf" download="cv2023">
-.btn {
-  background-color: DodgerBlue;
-  border: none;
-  color: white;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
-}
-</a>
+[Download CV](/files/cv2023.pdf){: .btn download="cv2023"}
 
 # Education
 
