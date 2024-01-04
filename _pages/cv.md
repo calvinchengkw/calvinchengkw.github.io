@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+<embed src="{{ site.baseurl }}/files/cv2023.pdf" width="600" height="700" type='application/pdf'> 
+
 # Education
 
 **MSc. in Public Policy (Distinction), London School of Economics and Political Science**, 2023
@@ -21,10 +22,10 @@ redirect_from:
 
 # Work experience
 
-**2017-Present** - Fellow in the Economics, Trade, and Regional Integration programme - **Institute of Strategic and International Studies (ISIS) Malaysia**  
+**2017-Present:** **Fellow in the Economics, Trade, and Regional Integration programme** at the Institute of Strategic and International Studies (ISIS) Malaysia
   * Past positions held: Senior Analyst (2021), Analyst (2019), Researcher (2017)
   
-**2015-2017** - Economics Executive - **Public Mutual Berhad**
+**2015-2017:** **Economics Executive** at Public Mutual Berhad
   * Bloomberg terminal, macroeconomic forecasting and analysis, database management
   
 ## Skills
