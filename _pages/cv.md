@@ -40,7 +40,7 @@ redirect_from:
 </div>
 
 ## Skills
-* Economic and public policy analysis, social protection programme design, survey design, data analysis and visualisation, policy evaluation and causal inference, economic modelling
+* Economic and public policy analysis; data analysis and visualisation; policy design, evaluation and causal inference; economic modelling; survey and experimental design
 * Policy areas of expertise: 
   * Labour markets, jobs, productivity
   * Social protection, social transfer programme design
