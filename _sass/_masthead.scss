@@ -27,9 +27,16 @@
 
     a {
       text-decoration: none;
+      color: #2d7dff;
+      
+      &:hover{
+        color: #aecaf7; // Optional: Color for hover state
+      }
     }
   }
 }
+
+
 
 .masthead__menu {
 
