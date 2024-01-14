@@ -8,13 +8,27 @@
 
 $doc-font-size              : 15;
 
+@font-face {
+   font-family: 'CircularStd';
+   src: url('assets/fonts/circular-std-4.ttf') format('ttf'),
+   font-weight: normal;
+   font-style: normal;
+ }
+
+@font-face {
+   font-family: 'CircularStd';
+   src: url('assets/fonts/circular-std-6.ttf') format('ttf'),
+   font-weight: bold;
+   font-style: normal;
+ }
+
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Lato","Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "CircularStd","Inter","Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
