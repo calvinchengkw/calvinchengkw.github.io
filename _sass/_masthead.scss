@@ -45,6 +45,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  color: #33364e;
 
   &--lg {
     padding-right: 2em;
@@ -52,9 +53,9 @@
   }
 }
 
-.masthead__menu-item a {
+/* .masthead__menu-item a {
   color: #33364e; // replace with the color you want
   &:hover {
     color: #6c7ae9; // replace with the color you want on hover
   }
-}
+} */
