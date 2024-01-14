@@ -12,12 +12,12 @@ Fiscal policy of Covid
 
 
 During my time in the LSE, I have also done work on Retirement and Targeting of social transfers
-
+▶ 
 
 Currently, I am now working on two major research work areas:
-* Labour policy related issues, including minimum wage, other labour market institutions and progressive wage model
-* Economics of gender and care economy 
-* Retirement using MARS Wave 2 data
+▶ Labour policy related issues, including minimum wage, other labour market institutions and progressive wage model
+▶ Economics of gender and care economy 
+▶ Retirement using MARS Wave 2 data
 
 
 Click <a href="calvinchengkw.github.io/publications">here</a> for a list of recent research output and publications 
