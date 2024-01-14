@@ -6,7 +6,7 @@ author_profile: true
 
 I have over 8 years of experience in public policy research, economics, and consulting -- first as a macroeconomic reserach analyst in a mutual fund, and then 6 years in the public policy and research industry. My consulting work has supported federal and state governments, international development organizations, and multinational corporations. 
 
-### Areas of competence and and what I can do for you: 
+### Areas of competence and and what I can consult on: 
 ▶ Survey design and analysis<br>&nbsp;<br>
 ▶ Policy impact evaluation<br>&nbsp;<br>
 ▶ Case studies and full in-depth subject matter reports on specific topics<br>&nbsp;<br>
