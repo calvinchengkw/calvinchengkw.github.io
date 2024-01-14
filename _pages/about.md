@@ -16,7 +16,7 @@ For more detailed information on the above, please see specific pages on:
   1. <a href="https://calvinchengkw.github.io/research"> Research</a> 
   2. <a href="https://calvinchengkw.github.io/consulting">Consulting and projects</a>
   3. A list of my selected <a href="https://calvinchengkw.github.io/publications">publications</a> 
-  4. My <a href="https://calvinchengkw.github.io/cv">CV</a>
+  4. My <a href="https://calvinchengkw.github.io/cv">Curriculum Vitae</a>
 
 
  <img src="images/pic1.jpg" alt="Lecture to Help University Student Union" class="about-image">
