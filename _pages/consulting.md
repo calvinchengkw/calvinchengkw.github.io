@@ -4,17 +4,17 @@ title: "Consulting and projects"
 author_profile: true
 ---
 
-I have over 8 years of experience in public policy research, economics, and consulting -- first as a macroeconomic reserach analyst in a mutual fund, and then 6 years in the public policy and research industry. My consulting work has supported federal and state governments, international development organizations, and multinational corporations. 
+I have over 8 years of experience in public policy research, economics, and consulting -- first as a macroeconomic reserach analyst in a mutual fund, and then 6 years in the public policy and research industry. My consulting work has supported federal and state governments, international development organizations, and multinational corporations. Feel free to reach out to me via email (on the left sidebar) for more information, to send request for proposals, or other opportunties.
 
-### Areas of competence and and what I can consult on: 
-▶ Survey design and analysis<br>&nbsp;<br>
-▶ Policy impact evaluation<br>&nbsp;<br>
-▶ Case studies and full in-depth subject matter reports on specific topics<br>&nbsp;<br>
-▶ Economic analysis, modelling, and projections<br>&nbsp;<br>
-▶ Data visualiation and communication<br>&nbsp;<br>
-▶ Economics and policy consulting for political campaigns<br>&nbsp;<br>
+### ▶ Areas of competence and and what I can consult on: 
+* Survey design and analysis
+* Policy impact evaluation
+* Case studies and full in-depth subject matter reports on specific topics
+* Economic analysis, modelling, and projections
+* Data visualiation and communication
+* Economics and policy consulting for political campaigns
 
-### Selected projects I've worked or consulted on:
+### ▶ Selected projects I've worked or consulted on:
 * Currently engaged as a consultant a World Bank SSN GSG project on the policy design of social transfer programmes, and how index-linking mechanisms can help to safeguard vulnerable communities in times of economic uncertainty
 * Consulted with the state government of Johor, Malaysia, on the development of a comprehensive new state budget framework, integrating both policy considerations and economic projections.
 * Contracted by Google LLC to write a comprehensive <a href="https://www.isis.org.my/wp-content/uploads/2022/02/Strengthening-digital-trade-and-digitalisation-in-Malaysia_24-Feb.pdf">report</a> on digitalization and digital trade in Malaysia. 
