@@ -51,16 +51,11 @@ redirect_from:
 * Applied General Equilibrium for Policy Analysis. Awarded by Putra University Malaysia, 2019.
 * Economic Analysis of Microdata. Awarded by Putra University Malaysia, 2019.
 
-## Awards
+## Awards and appointments
 * Chevening Scholarship Award, UK Foreign, Commonwealth & Development Office, 2022.
   * Awarded full-ride scholarship to study at the London School of Economics and Political Science
-
-Past consulting projects
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Committee member on the Technical Working Committee for the Multidimensional Poverty Index, Ministry of Economy Malaysia, 2022-present.
+* Industry Expert Advisory Panel (IEAP) member for the Master of Science in Economics programme in the Tunku Abdul Rahman University of Management and Technology (TAR UMT), 2022-present.
 
 Publications
 ======
@@ -68,12 +63,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Awards and certifications
-======
-* Chevening Scholarship 2022-2023
+
+

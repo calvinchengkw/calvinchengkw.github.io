@@ -4,28 +4,23 @@ title: "Research"
 author_profile: true
 ---
 
-My research focuses on economic policy issues, particularly those related to jobs, labor markets, social protection, and economic development. I am also interested in taxation and the policy design and incentive mechanisms, and implementation of cash transfer and social protection programmes -- including targeting, transfer modalities, index-linking, and 'trigger' mechanisms. Here are some selected thematic areas that I've recently worked in:
+I am a public policy researcher interested in issues in applied economics, encompassing topics related to jobs, labor markets, social protection, and economic development. I am also interested in the design and incentive mechanisms of public policy instruments, with a special focus on transfer and benefit programs, taxation, and pensions.
 
-### ▶ Covid-19 stuff, jobs, labour markets 
+Selected areas: 
 
-Over the past few years during the Covid-19 pandemic, I did work on the unequal impacts of Covid-19 on Malaysia's workers and its socio-economic impacts, including on fiscal stimulus, measures as well as regional responses to the pandemic. This includes two book chapters, one in collaboration with TalentCorp and featured on the Human Resources Minister's top books for 2023 list -- and one forthcoming in press (see in-text links). 
+### ▶ Economic and social impacts of crises 
 
-[pandemic papers, asia policy, labour landscape]
+Over the Covid-19 pandemic, I analysed the varied and wide-ranging <a href="https://www.isis.org.my/2023/11/01/post-covid-19-recovery-and-quest-for-good-jobs/">impacts</a> Covid-19 had on Malaysia's <a href="https://www.isis.org.my/wp-content/uploads/2022/02/Calvin-Cheng-Socioeconomic-impacts-of-Covid-19-and-Malaysia.pdf">economy</a>, workers, and society -- including the vastly unequal <a href="https://www.isis.org.my/wp-content/uploads/2020/12/PUSHED-TO-THE-MARGIN-POLICY-BRIEF.pdf">labour market impacts</a> of containment measures on disadvantaged demographics, and its <a href="https://www.isis.org.my/2022/04/20/crisis-of-inequality-covid-19s-long-lasting-economic-impacts/">long-lasting consequences</a> for Malaysia's inequality and development. Part of this work has also involved documenting regional <a href="https://muse.jhu.edu/article/846877/summary">economic responses</a> to the pandemic and evaluating the <a href="https://www.isis.org.my/2021/06/01/fiscal-size-matters-pt-2-permerkasa-plus-and-malaysias-economic-stimulus-packages/">design and effectiveness</a> of Malaysia's economic stimulus measures.
 
-### ▶ Social benefits, cash transfer programming, design of social transfer programmes
+### ▶ Social protection, benefit and transfer programmes
 
-During my time in LSE throughout 2022 and 2023, I have also worked on 1. causal effect of retirement on wellbeing: a regression discontinuity approach and 2. policy memo on the policy design of targeting social transfers, and 3. produced a capstone project on "Index-linking social trasnfers to safeguard vulnerable communities in times of economic uncertainty" which also led to both a SSN GSG BBL (https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1930181/uiconf_id/29317392/entry_id/1_ddedyz6l/embed/dynamic) and eventually a consulting project with the World Bank SPJ GP. 
+I have worked on the <a href="https://www.isis.org.my/wp-content/uploads/2019/08/Bantuan-Sara-Hidup-Design-Considerations-fina.pdf">policy design considerations</a> of Malaysia's unconditional cash transfer programme (currently Sumbangan Tunai Rahmah, previously variously named BR1M, BSH, BPN) since 2018. This includes design aspects related to beneficiary <a href="https://www.isis.org.my/2018/09/13/making-br1m-work/">targeting,</a> coverage, benefit adequacy, and implementation of both the flagship transfer programme, as well as the <a href="https://www.isis.org.my/2020/04/02/evaluating-the-bpn-bsh-cash-transfers-in-the-%e2%80%8bprihatin%e2%80%8b-stimulus-package/">"crisis"</a> measures introduced in economic stimulus measures in 2020-2021.
 
-### ▶ Retirement, ageing, gender, care
+During my time as the London School of Economics throughout 2022-2023, I wrote on a Labour Economics extended essay (thesis) on "The causal effect of retirement on wellbeing in Malaysia: a regression discontinuity approach", using Wave 1 data from the  Malaysian Ageing and Retirement Survey (MARS). I also consulted with the World Bank Social Protection and Jobs Global Practice on a project on "Index-linking social transfers to safeguard vulnerable communities in times of economic uncertainy". This work was also presented at a World Bank SSN-GSG <a href="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1930181/uiconf_id/29317392/entry_id/1_ddedyz6l/embed/dynamic">Brown Bag Lunch</a>, and I am now working on a follow-up extension of that project with the Bank. 
 
-Currently, I am now working on two major research work areas:
-* Labour policy related issues, including minimum wage, other labour market institutions and progressive wage model
-* Economics of gender and care economy
-* Retirement using MARS Wave 2 data
-
-### ▶ Currently working on... 
-* ...labour policy related issues, including on the design of the proposed Progressive Wage Model in Malaysia, as well as on a planned evaluation of the 2022 minimum wage increase
-* ...Retirement and ageing related issues using the MARS Wave 2 dataset
-* ...issues related to the economics of gender, gender gaps in Malaysia
+### ▶ In 2024, I am currently working on... 
+* ...labour policy related issues, including on the design of the proposed Progressive Wage Model in Malaysia, wages, and wage floors
+* ...retirement and ageing related issues, in particularly extending my retirement and wellbeing work using the newly released MARS Wave 2 dataset
+* ...issues related to the economics of care, and gender gaps in Malaysia
 
 Please see <a href="calvinchengkw.github.io/publications">here</a> for a longer list of recent research output and publications 
