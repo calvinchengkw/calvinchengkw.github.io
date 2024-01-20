@@ -27,14 +27,8 @@ redirect_from:
 
 **▶ Fellow in the Economics, Trade, and Regional Integration programme** at the Institute of Strategic and International Studies (ISIS) Malaysia, 2017-Present
   * Past positions held: Senior Analyst (2021), Analyst (2019), Researcher (2017)
-  * Research function
-  * Government policy function
-  * Project function
   
 **▶ Economics Executive** at Public Mutual Berhad, 2015-2017
-  * Bloomberg terminal, macroeconomic forecasting and analysis, database management
-  * Data function
-  * Investment function
 <div style="text-align: center;">
   ...
 </div>
@@ -52,10 +46,10 @@ redirect_from:
 * Economic Analysis of Microdata. Awarded by Putra University Malaysia, 2019.
 
 ## Awards and appointments
-* Chevening Scholarship Award, UK Foreign, Commonwealth & Development Office, 2022.
+* *Chevening Scholarship Award*, UK Foreign, Commonwealth & Development Office, 2022.
   * Awarded full-ride scholarship to study at the London School of Economics and Political Science
-* Committee member on the Technical Working Committee for the Multidimensional Poverty Index, Ministry of Economy Malaysia, 2022-present.
-* Industry Expert Advisory Panel (IEAP) member for the Master of Science in Economics programme in the Tunku Abdul Rahman University of Management and Technology (TAR UMT), 2022-present.
+* *Committee member on the Technical Working Committee for the Multidimensional Poverty Index*, Ministry of Economy Malaysia, 2022-present.
+* *Industry Expert Advisory Panel (IEAP)* member for the Master of Science in Economics programme in the Tunku Abdul Rahman University of Management and Technology (TAR UMT), 2022-present.
 
 Publications
 ======
