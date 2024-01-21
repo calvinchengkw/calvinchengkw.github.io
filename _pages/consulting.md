@@ -4,7 +4,7 @@ title: "Consulting and projects"
 author_profile: true
 ---
 
-I have over 8 years of experience in public policy research, economics, and consulting -- first as a macroeconomic reserach analyst in a mutual fund, and then 6 years in the public policy and research industry. My consulting work has supported federal and state governments, international development organizations, and multinational corporations. I have worked with both government and private sector stakeholders as well as with development organisations and CSO/NGOs. 
+I have over 8 years of experience in public policy research, economics, and consulting -- first as a macroeconomic research analyst in a mutual fund, and then 6 years in the public policy and research industry. My consulting work has supported federal and state governments, international development organizations, and multinational corporations. I have worked with both government and private sector stakeholders as well as with development organisations and CSO/NGOs. 
 
 ### ▶ Areas of expertise: 
 * Survey design and analysis
@@ -15,7 +15,7 @@ I have over 8 years of experience in public policy research, economics, and cons
 * Economics and policy consulting for politics
 
 ### ▶ Selected past and current projects:
-* Currently a consultant a World Bank SSN GSG project on the policy design of social transfer programmes, and how to design index-linking mechanisms to safeguard vulnerable communities in times of economic uncertainty
+* Currently a consultant on a World Bank SSN GSG project on the policy design of social transfer programmes, and how to design index-linking mechanisms to safeguard vulnerable communities in times of economic uncertainty
 * Consulted with the state government of Johor, Malaysia, on the development of a comprehensive new state budget framework, integrating both policy considerations and economic projections.
 * Lead researcher on a Google LLC grant to write a comprehensive <a href="https://www.isis.org.my/wp-content/uploads/2022/02/Strengthening-digital-trade-and-digitalisation-in-Malaysia_24-Feb.pdf">report</a> on strengthening digitalization and digital trade in Malaysia. 
 * Consulted on the survey design and analysis of a full-scale survey for a federal government ministry on microenteprises and entrepreneurship
