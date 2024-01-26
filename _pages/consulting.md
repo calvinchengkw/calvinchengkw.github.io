@@ -11,7 +11,7 @@ I have over 8 years of experience in public policy research, economics, and cons
 * Policy impact evaluation
 * In-depth subject matter reports and case studies
 * Economic analysis, modelling, and projections
-* Data visualiation and communication
+* Data visualisation and communication
 * Economics and policy consulting for politics
 
 ## ▶ Selected past and current projects:
