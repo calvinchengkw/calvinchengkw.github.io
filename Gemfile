@@ -26,5 +26,4 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'tzinfo', platforms: [:mingw, :mswin, :x64_mingw]
   gem "tzinfo-data"
-  gem 'jekyll-scholar'
 end
