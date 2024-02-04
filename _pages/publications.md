@@ -16,29 +16,42 @@ author_profile: false
 {% endfor %}-->
 
 ## Highlights
-- C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press.{: .notice}
+<div style="background-color: #f0f0f0; padding: 10px; margin-bottom: 20px; border-left: 4px solid #2a7ae2;">
+  <strong><a href="#" style="text-decoration: none; color: #2a7ae2;">Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia,</a></strong> in <em>Crisis and Community</em>, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press.
+</div>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
-## Technical Reports, Policy Briefs, Working Papers
-- C. Cheng and J. Mohamad, "[Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19](https://www.isis.org.my/2022/02/24/strengtheningdigital-trade-and-digitalisation-in-malaysia-2/)," Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC.
-- C. Cheng, F. Rosli, and D. M. Kartika, "[The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf)" Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19.
-- C. Cheng, "[Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/)," Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020.
+## Technical reports, policy briefs, working papers
+- ["Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19"](https://www.isis.org.my/2022/02/24/strengthening-digital-trade-and-digitalisation-in-malaysia-2/), C. Cheng and J. Mohamad, Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC.
+- ["Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers"](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/), C. Cheng, Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020.
+- ["The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?"](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf), C. Cheng, F. Rosli, and D. M. Kartika, Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19.
+- ["Unpacking Budget 2024: Navigating Fiscal Realities and Policy Priorities"](https://www.isis.org.my/2023/10/26/unpacking-budget-2024-navigating-fiscal-realities-and-policy-priorities/), C. Cheng, et al.
+- ["Fiscal Size Matters Pt 2: PERMERKASA Plus and Malaysia’s Economic Stimulus Packages"](https://www.isis.org.my/2021/06/01/fiscal-size-matters-pt-2-permerkasa-plus-and-malaysias-economic-stimulus-packages/), C. Cheng, et al.
+- ["Fiscal Size Matters: The PERMAI Assistance Package and Malaysia’s Economic Response to COVID-19"](https://www.isis.org.my/2021/01/20/fiscal-size-matters-the-permai-assistance-package-and-malaysias-economic-response-to-covid-19/), C. Cheng, et al.
+<!-- - Targeting post
+- Philosophy of gentrification
+- Retirement paper -->
 
-## Books and Chapters
+
+## Books and chapters
 - C. Cheng, "Post-Covid-19 recovery and quest for 'good jobs'," in *Where Do We Go Work-wise: Malaysia’s Labour Landscape*. Petaling Jaya, Malaysia: TalentCorp, 2023, pp. 31–51.
 - C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press.
 - C. Cheng, "Crisis of inequality: Covid-19’s long-lasting impacts," in *Pandemic Papers: Lessons from Covid-19*. Kuala Lumpur, Malaysia: Institute of Strategic and International Studies, Malaysia, 2022, pp. 6–17.
 
-## Journal Articles
+## Journal articles and papers
 - C. Cheng, "The socioeconomic impacts of Covid-19 in Malaysia," *Asia Policy*, vol. 17, pp. 35–44, Jan 2022, National Bureau of Asian Research. [doi: 10.1353/asp.2022.0002](https://doi.org/10.1353/asp.2022.0002).
 - C. Cheng and H. Zainul, "Trends in Malaysia’s future of work," *Journal of China-ASEAN Studies*, vol. 2, pp. 99–117, 18 2021, China Social Sciences Press. [PDF](https://www.isis.org.my/wp-content/uploads/2022/01/China-ASEAN-Studies-Volume2-2021.pdf).
 - C. Cheng and J. Mohamad, "Youth unemployment in Malaysia and the region," *Japan SPOTLIGHT*, vol. 1, pp. 49–53, 229 2020, Japan Economic Foundation. [PDF](https://www.jef.or.jp/journal/pdf/229th_Special_Article.pdf).
 
+## Selected newspaper articles, opinion pieces
+- [Why we should welcome back GST](https://www.isis.org.my/2023/10/02/why-we-should-welcome-back-gst/), Edge Markets.
+- [Making trade investment work for Malaysia](https://www.isis.org.my/2022/09/10/making-trade-investment-work-for-malaysia/), Edge Markets.
+- [When does a recession look like a recession?](https://www.isis.org.my/2021/04/20/when-does-a-recession-look-like-a-recession/), News Straits Times.
+- [Malaysia's youth in peril](https://www.isis.org.my/2021/05/01/malaysias-youth-in-peril/), C. Cheng, Welsh. B., MalaysiaKini.
+- [Making the invisible visible: Faces of poverty in Malaysia](https://www.isis.org.my/2020/04/05/making-the-invisible-visible-faces-of-poverty-in-malaysia/), C. Cheng, Welsh. B. MalaysiaKini.
 
-## Conference Proceedings, Presentations, Talks, Misc
+
+## Selected conference Proceedings, presentations, Talks, misc
 - C. Cheng. "Pandemic economics: the Malaysian economy and economic responses to Covid-19." Mar. 2021. [URL](https://www.isis.org.my/wp-content/uploads/2021/03/SIRIM-presentation.pdf).
 - C. Cheng. "Policies for the future of Malaysia’s youth." Jun. 2021. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf).
 - C. Cheng. "Bantuan Sara Hidup: Programme design considerations for cash transfer programming in Malaysia." Aug. 2019. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf).
