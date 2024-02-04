@@ -15,9 +15,11 @@ I have over 8 years of experience in public policy research, economics, and cons
 * Economics and policy consulting for politics
 
 ## ▶ Selected past and current projects:
-* Currently a consultant on a World Bank SSN GSG project on the policy design of social transfer programmes, and how to design index-linking mechanisms to safeguard vulnerable communities in times of economic uncertainty
-* Consulted with the state government of Johor, Malaysia, on the development of a comprehensive new state budget framework, integrating both policy considerations and economic projections.
-* Lead researcher on a Google LLC grant to write a comprehensive <a href="https://www.isis.org.my/wp-content/uploads/2022/02/Strengthening-digital-trade-and-digitalisation-in-Malaysia_24-Feb.pdf">report</a> on strengthening digitalization and digital trade in Malaysia. 
-* Consulted on the survey design and analysis of a full-scale survey for a federal government ministry on microenteprises and entrepreneurship
-* Worked in collaboration with NGOs and CSOs on the ground as part of the research team of the All-Party Parliamentary Groups (APPG) for 'Sustainable Development Goals' and for 'Urban Poverty and B40' to conduct fieldwork and data collection
-* Committee member on the Technical Working Group on Multidimensional Poverty Index (MPI) with the Malaysian Ministry of Economy, contributing to the improvement of multidimensional measurements of deprivation.
+<ul>
+  <li><strong>World Bank SSN GSG Project:</strong> Currently a consultant focusing on the policy design of social transfer programmes and designing index-linking mechanisms to safeguard vulnerable communities in times of economic uncertainty.</li>
+  <li><strong>Johor State Government Consultation:</strong> Worked with the state government of Johor, Malaysia, on developing a comprehensive new state budget framework, integrating policy considerations and economic projections.</li>
+  <li><strong>Google LLC Research Grant:</strong> Lead researcher on a project funded by a Google LLC grant, producing a <a href="https://www.isis.org.my/wp-content/uploads/2022/02/Strengthening-digital-trade-and-digitalisation-in-Malaysia_24-Feb.pdf">comprehensive report</a> on strengthening digitalization and digital trade in Malaysia.</li>
+  <li><strong>Federal Government Survey on Microenterprises:</strong> Consulted on survey design and analysis for a full-scale survey conducted by a federal government ministry, focusing on microenterprises and entrepreneurship.</li>
+  <li><strong>APPG Collaboration for Fieldwork:</strong> Participated in collaborative fieldwork and data collection with NGOs and CSOs as part of the research team for the All-Party Parliamentary Groups (APPG) on 'Sustainable Development Goals' and 'Urban Poverty and B40'.</li>
+  <li><strong>Technical Working Group on MPI:</strong> Served as a committee member for the Technical Working Group on Multidimensional Poverty Index (MPI) with the Malaysian Ministry of Economy, aiding in the enhancement of multidimensional measurements of deprivation.</li>
+</ul>
