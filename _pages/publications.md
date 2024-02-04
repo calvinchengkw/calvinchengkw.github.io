@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected publications"
 permalink: /publications/
 author_profile: false
 ---
@@ -18,10 +18,14 @@ author_profile: false
 ## Highlights
 - C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press.{: .notice}
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Technical Reports, Policy Briefs, Working Papers
-- C. Cheng and J. Mohamad, "Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19," Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC. [URL](https://www.isis.org.my/2022/02/24/strengtheningdigital-trade-and-digitalisation-in-malaysia-2/).
-- C. Cheng, F. Rosli, and D. M. Kartika, "The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?" Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19. [PDF](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf).
-- C. Cheng, "Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers," Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020. [URL](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/).
+- C. Cheng and J. Mohamad, "[Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19](https://www.isis.org.my/2022/02/24/strengtheningdigital-trade-and-digitalisation-in-malaysia-2/)," Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC.
+- C. Cheng, F. Rosli, and D. M. Kartika, "[The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf)" Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19.
+- C. Cheng, "[Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/)," Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020.
 
 ## Books and Chapters
 - C. Cheng, "Post-Covid-19 recovery and quest for 'good jobs'," in *Where Do We Go Work-wise: Malaysia’s Labour Landscape*. Petaling Jaya, Malaysia: TalentCorp, 2023, pp. 31–51.
