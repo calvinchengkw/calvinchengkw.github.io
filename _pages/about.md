@@ -19,4 +19,4 @@ For more detailed information on the above, please see specific pages on:
   4. My <a href="https://calvinchengkw.github.io/cv">Curriculum Vitae</a>
 
 
- <img src="images/pic1.jpg" alt="Lecture to Help University Student Union" class="about-image">
+ <img src="images/pic2.jpg" alt="Lecture to Help University Student Union" class="about-image">
