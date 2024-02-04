@@ -18,5 +18,5 @@ For more detailed information on the above, please see specific pages on:
   3. A list of my selected <a href="https://calvinchengkw.github.io/publications">publications</a> 
   4. My <a href="https://calvinchengkw.github.io/cv">Curriculum Vitae</a>
 
-
- <img src="images/pic2.jpg" alt="Presentation at the Japan-ASEAN Roundtable" class="about-image" style="width: 50%; height: auto;">
+<img src="images/pic2.jpg" alt="Presentation at the Japan-ASEAN Roundtable" class="about-image" style="width: 50%; height: auto;">
+<img src="images/pic1.jpg" alt="Presentation to HELP University Student Union members" class="about-image" style="width: 50%; height: auto;">
