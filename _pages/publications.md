@@ -15,8 +15,13 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}-->
 
-## Highlights (pinned)
+## Highlights
+- C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press. {: .notice}
 
+## Technical Reports, Policy Briefs, Working Papers
+- C. Cheng and J. Mohamad, "Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19," Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC. [URL](https://www.isis.org.my/2022/02/24/strengtheningdigital-trade-and-digitalisation-in-malaysia-2/).
+- C. Cheng, F. Rosli, and D. M. Kartika, "The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?" Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19. [PDF](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf).
+- C. Cheng, "Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers," Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020. [URL](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/).
 
 ## Books and Chapters
 - C. Cheng, "Post-Covid-19 recovery and quest for 'good jobs'," in *Where Do We Go Work-wise: Malaysia’s Labour Landscape*. Petaling Jaya, Malaysia: TalentCorp, 2023, pp. 31–51.
@@ -28,10 +33,6 @@ author_profile: false
 - C. Cheng and H. Zainul, "Trends in Malaysia’s future of work," *Journal of China-ASEAN Studies*, vol. 2, pp. 99–117, 18 2021, China Social Sciences Press. [PDF](https://www.isis.org.my/wp-content/uploads/2022/01/China-ASEAN-Studies-Volume2-2021.pdf).
 - C. Cheng and J. Mohamad, "Youth unemployment in Malaysia and the region," *Japan SPOTLIGHT*, vol. 1, pp. 49–53, 229 2020, Japan Economic Foundation. [PDF](https://www.jef.or.jp/journal/pdf/229th_Special_Article.pdf).
 
-## Technical Reports, Policy Briefs, Working Papers
-- C. Cheng and J. Mohamad, "Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19," Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC. [URL](https://www.isis.org.my/2022/02/24/strengtheningdigital-trade-and-digitalisation-in-malaysia-2/).
-- C. Cheng, F. Rosli, and D. M. Kartika, "The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?" Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19. [PDF](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf).
-- C. Cheng, "Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers," Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020. [URL](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/).
 
 ## Conference Proceedings, Presentations, Talks, Misc
 - C. Cheng. "Pandemic economics: the Malaysian economy and economic responses to Covid-19." Mar. 2021. [URL](https://www.isis.org.my/wp-content/uploads/2021/03/SIRIM-presentation.pdf).
