@@ -22,12 +22,13 @@ author_profile: false
 
 
 ## Technical reports, policy briefs, working papers
-- ["Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19"](https://www.isis.org.my/2022/02/24/strengthening-digital-trade-and-digitalisation-in-malaysia-2/), C. Cheng and J. Mohamad, Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC.
-- ["Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers"](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/), C. Cheng, Institute of Strategic and International Studies, Malaysia, Kuala Lumpur, Malaysia, ISIS Malaysia Policy Brief 7-20, 2020.
-- ["The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?"](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf), C. Cheng, F. Rosli, and D. M. Kartika, Institute of Strategic and International Studies, Malaysia, Technical Policy Paper Issue 2-19.
-- ["Unpacking Budget 2024: Navigating Fiscal Realities and Policy Priorities"](https://www.isis.org.my/2023/10/26/unpacking-budget-2024-navigating-fiscal-realities-and-policy-priorities/), C. Cheng, et al.
-- ["Fiscal Size Matters Pt 2: PERMERKASA Plus and Malaysia’s Economic Stimulus Packages"](https://www.isis.org.my/2021/06/01/fiscal-size-matters-pt-2-permerkasa-plus-and-malaysias-economic-stimulus-packages/), C. Cheng, et al.
-- ["Fiscal Size Matters: The PERMAI Assistance Package and Malaysia’s Economic Response to COVID-19"](https://www.isis.org.my/2021/01/20/fiscal-size-matters-the-permai-assistance-package-and-malaysias-economic-response-to-covid-19/), C. Cheng, et al.
+- ["Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19"](https://www.isis.org.my/2022/02/24/strengthening-digital-trade-and-digitalisation-in-malaysia-2/), C. Cheng and J. Mohamad, Technical report in collaboration with Google LLC, 2022.
+- ["Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers"](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/), C. Cheng, Institute of Strategic and International Studies, ISIS Malaysia Policy Brief 7-20, 2020.
+- ["Unpacking Budget 2024: Navigating Fiscal Realities and Policy Priorities"](https://www.isis.org.my/2023/10/26/unpacking-budget-2024-navigating-fiscal-realities-and-policy-priorities/), C. Cheng, et al., 2023.
+- ["Fiscal Size Matters Pt 2: PERMERKASA Plus and Malaysia’s Economic Stimulus Packages"](https://www.isis.org.my/2021/06/01/fiscal-size-matters-pt-2-permerkasa-plus-and-malaysias-economic-stimulus-packages/), C. Cheng, 2021.
+- ["Fiscal Size Matters: The PERMAI Assistance Package and Malaysia’s Economic Response to COVID-19"](https://www.isis.org.my/2021/01/20/fiscal-size-matters-the-permai-assistance-package-and-malaysias-economic-response-to-covid-19/), C. Cheng, 2021.
+- ["COVID-19 in Malaysia: Economic Impacts & Fiscal Responses"](https://www.isis.org.my/2020/03/26/covid-19-in-malaysia-economic-impacts-fiscal-responses/), C. Cheng, Institute of Strategic and International Studies, ISIS Malaysia Policy Brief 1-20, 2020.
+- ["The US-China Trade War: Is Malaysia benefiting from 'diversions' in US import demand?"](https://www.isis.org.my/wp-content/uploads/2019/10/POLICY-BRIEF_REV01.pdf), C. Cheng, F. Rosli, and D. M. Kartika, Institute of Strategic and International Studies, Malaysia, ISIS Malaysia Policy Brief 2-19, 2019.
 
 <!-- - Targeting post
 - Philosophy of gentrification

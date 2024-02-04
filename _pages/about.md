@@ -19,4 +19,4 @@ For more detailed information on the above, please see specific pages on:
   4. My <a href="https://calvinchengkw.github.io/cv">Curriculum Vitae</a>
 
 
- <img src="images/pic2.jpg" alt="Presentation at the Japan-ASEAN Roundtable" class="about-image" style="width: 50%; height: auto;>
+ <img src="images/pic2.jpg" alt="Presentation at the Japan-ASEAN Roundtable" class="about-image" style="width: 50%; height: auto;">
