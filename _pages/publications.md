@@ -28,6 +28,7 @@ author_profile: false
 - ["Unpacking Budget 2024: Navigating Fiscal Realities and Policy Priorities"](https://www.isis.org.my/2023/10/26/unpacking-budget-2024-navigating-fiscal-realities-and-policy-priorities/), C. Cheng, et al.
 - ["Fiscal Size Matters Pt 2: PERMERKASA Plus and Malaysia’s Economic Stimulus Packages"](https://www.isis.org.my/2021/06/01/fiscal-size-matters-pt-2-permerkasa-plus-and-malaysias-economic-stimulus-packages/), C. Cheng, et al.
 - ["Fiscal Size Matters: The PERMAI Assistance Package and Malaysia’s Economic Response to COVID-19"](https://www.isis.org.my/2021/01/20/fiscal-size-matters-the-permai-assistance-package-and-malaysias-economic-response-to-covid-19/), C. Cheng, et al.
+
 <!-- - Targeting post
 - Philosophy of gentrification
 - Retirement paper -->
@@ -45,7 +46,7 @@ author_profile: false
 
 ## Selected newspaper articles, opinion pieces
 - [Why we should welcome back GST](https://www.isis.org.my/2023/10/02/why-we-should-welcome-back-gst/), Edge Markets.
-- [Making trade investment work for Malaysia](https://www.isis.org.my/2022/09/10/making-trade-investment-work-for-malaysia/), Edge Markets.
+- [Making FDI work for Malaysia;s development](https://www.isis.org.my/2022/09/10/making-trade-investment-work-for-malaysia/), Edge Markets.
 - [When does a recession look like a recession?](https://www.isis.org.my/2021/04/20/when-does-a-recession-look-like-a-recession/), News Straits Times.
 - [Malaysia's youth in peril](https://www.isis.org.my/2021/05/01/malaysias-youth-in-peril/), C. Cheng, Welsh. B., MalaysiaKini.
 - [Making the invisible visible: Faces of poverty in Malaysia](https://www.isis.org.my/2020/04/05/making-the-invisible-visible-faces-of-poverty-in-malaysia/), C. Cheng, Welsh. B. MalaysiaKini.
