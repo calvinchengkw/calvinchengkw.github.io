@@ -16,7 +16,7 @@ author_profile: false
 {% endfor %}-->
 
 ## Highlights
-- C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press. {: .notice}
+- C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press.{: .notice}
 
 ## Technical Reports, Policy Briefs, Working Papers
 - C. Cheng and J. Mohamad, "Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19," Kuala Lumpur, Malaysia, Technical report in collaboration with Google LLC. [URL](https://www.isis.org.my/2022/02/24/strengtheningdigital-trade-and-digitalisation-in-malaysia-2/).
