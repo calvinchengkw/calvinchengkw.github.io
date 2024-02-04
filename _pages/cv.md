@@ -53,9 +53,6 @@ redirect_from:
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
+See list of selected publications <a href="https://calvinchengkw.github.io/publications">here</a> 
 
