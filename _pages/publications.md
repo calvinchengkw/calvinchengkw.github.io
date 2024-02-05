@@ -34,14 +34,13 @@ author_profile: false
 
 <!-- 
 - Targeting post
-- Philosophy of gentrification
-- Retirement paper -->
+- Philosophy of gentrification-->
 
 
 ## Books and chapters
-- C. Cheng, "Post-Covid-19 recovery and quest for 'good jobs'," in *Where Do We Go Work-wise: Malaysia’s Labour Landscape*. Petaling Jaya, Malaysia: TalentCorp, 2023, pp. 31–51.
+- C. Cheng, ["Post-Covid-19 recovery and quest for 'good jobs'"](https://www.isis.org.my/2023/11/01/where-do-we-go-workwise-malaysias-labour-landscape-introduction/) in *Where Do We Go Work-wise: Malaysia’s Labour Landscape*. Petaling Jaya, Malaysia: TalentCorp, 2023, pp. 31–51.
 - C. Cheng, "Socio-economic and Development Consequences of the Covid-19 Pandemic for Malaysia," in *Crisis and Community*, B. Welsh, Ed. Kuala Lumpur, Malaysia: Strategic Information and Research Development Centre, 2024, In press.
-- C. Cheng, "Crisis of inequality: Covid-19’s long-lasting impacts," in *Pandemic Papers: Lessons from Covid-19*. Kuala Lumpur, Malaysia: Institute of Strategic and International Studies, Malaysia, 2022, pp. 6–17.
+- C. Cheng, ["Crisis of inequality: Covid-19’s long-lasting impacts"](https://www.isis.org.my/2022/04/20/crisis-of-inequality-covid-19s-long-lasting-economic-impacts/) in *Pandemic Papers: Lessons from Covid-19*. Kuala Lumpur, Malaysia: Institute of Strategic and International Studies, Malaysia, 2022, pp. 6–17.
 
 ## Journal articles and papers
 - C. Cheng, "The socioeconomic impacts of Covid-19 in Malaysia," *Asia Policy*, vol. 17, pp. 35–44, Jan 2022, National Bureau of Asian Research. [doi: 10.1353/asp.2022.0002](https://doi.org/10.1353/asp.2022.0002).
