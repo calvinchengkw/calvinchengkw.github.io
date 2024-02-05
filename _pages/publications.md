@@ -22,7 +22,7 @@ author_profile: false
 
 
 ## Technical reports, policy briefs, working papers
-- Working paper: [Life after work: the causal effect of retirement on wellbeing in Malaysia](https://drive.google.com/file/d/18GWiaGD1kYn-HIn4pUFrIXR33N2FPNaY/view?usp=sharing), C. Cheng, 2023.
+- Working paper: [Life after work: the causal effect of retirement on wellbeing in Malaysia](/posts/2024/01/retirement-wellbeing-1), C. Cheng, 2023.
 - ["Strengthening digital trade and digitalisation in Malaysia: Challenges and pathways towards a resilient digital economy post-Covid-19"](https://www.isis.org.my/2022/02/24/strengthening-digital-trade-and-digitalisation-in-malaysia-2/), C. Cheng and J. Mohamad, Technical report in collaboration with Google LLC, 2022.
 - ["Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers"](https://www.isis.org.my/2020/11/30/pushed-to-the-margins-the-unequal-impacts-of-the-covid-19-crisis-on-marginalised-malaysian-workers/), C. Cheng, Institute of Strategic and International Studies, ISIS Malaysia Policy Brief 7-20, 2020.
 - ["Unpacking Budget 2024: Navigating Fiscal Realities and Policy Priorities"](https://www.isis.org.my/2023/10/26/unpacking-budget-2024-navigating-fiscal-realities-and-policy-priorities/), C. Cheng, et al., 2023.
