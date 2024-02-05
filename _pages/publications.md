@@ -43,9 +43,9 @@ author_profile: false
 - C. Cheng, ["Crisis of inequality: Covid-19’s long-lasting impacts"](https://www.isis.org.my/2022/04/20/crisis-of-inequality-covid-19s-long-lasting-economic-impacts/) in *Pandemic Papers: Lessons from Covid-19*. Kuala Lumpur, Malaysia: Institute of Strategic and International Studies, Malaysia, 2022, pp. 6–17.
 
 ## Journal articles and papers
-- C. Cheng, "The socioeconomic impacts of Covid-19 in Malaysia," *Asia Policy*, vol. 17, pp. 35–44, Jan 2022, National Bureau of Asian Research. [doi: 10.1353/asp.2022.0002](https://doi.org/10.1353/asp.2022.0002).
-- C. Cheng and H. Zainul, "Trends in Malaysia’s future of work," *Journal of China-ASEAN Studies*, vol. 2, pp. 99–117, 18 2021, China Social Sciences Press. [PDF](https://www.isis.org.my/wp-content/uploads/2022/01/China-ASEAN-Studies-Volume2-2021.pdf).
-- C. Cheng and J. Mohamad, "Youth unemployment in Malaysia and the region," *Japan SPOTLIGHT*, vol. 1, pp. 49–53, 229 2020, Japan Economic Foundation. [PDF](https://www.jef.or.jp/journal/pdf/229th_Special_Article.pdf).
+- C. Cheng, **"The socioeconomic impacts of Covid-19 in Malaysia,"** *Asia Policy*, vol. 17, pp. 35–44, Jan 2022, National Bureau of Asian Research. [doi: 10.1353/asp.2022.0002](https://doi.org/10.1353/asp.2022.0002).
+- C. Cheng and H. Zainul, **"Trends in Malaysia’s future of work,"** *Journal of China-ASEAN Studies*, vol. 2, pp. 99–117, 18 2021, China Social Sciences Press. [PDF](https://www.isis.org.my/wp-content/uploads/2022/01/China-ASEAN-Studies-Volume2-2021.pdf).
+- C. Cheng and J. Mohamad, **"Youth unemployment in Malaysia and the region,"** *Japan SPOTLIGHT*, vol. 1, pp. 49–53, 229 2020, Japan Economic Foundation. [PDF](https://www.jef.or.jp/journal/pdf/229th_Special_Article.pdf).
 
 ## Selected newspaper articles, opinion pieces
 - [Why we should welcome back GST](https://www.isis.org.my/2023/10/02/why-we-should-welcome-back-gst/), Edge Markets, November 2023.
@@ -56,7 +56,7 @@ author_profile: false
 
 
 ## Selected conference proceedings, presentations, talks, misc
-- **"Strengthening digital trade and digitalisation in Malaysia"** ISIS-Google report launch, February 2022. [PDF](https://www.isis.org.my/wp-content/uploads/2022/02/ISIS-Google-digital-trade-report-summary-presentation.pdf)
-- **"Pandemic economics: the Malaysian economy and economic responses to Covid-19."** Mar 2021. [URL](https://www.isis.org.my/wp-content/uploads/2021/03/SIRIM-presentation.pdf)
-- **"Policies for the future of Malaysia’s youth."** Jun 2021. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf)
-- **"Bantuan Sara Hidup: Programme design considerations for cash transfer programming in Malaysia."** Aug 2019. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf)
+- "Strengthening digital trade and digitalisation in Malaysia" ISIS-Google report launch, February 2022. [PDF](https://www.isis.org.my/wp-content/uploads/2022/02/ISIS-Google-digital-trade-report-summary-presentation.pdf)
+- "Pandemic economics: the Malaysian economy and economic responses to Covid-19." Mar 2021. [URL](https://www.isis.org.my/wp-content/uploads/2021/03/SIRIM-presentation.pdf)
+- "Policies for the future of Malaysia’s youth." Jun 2021. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf)
+- "Bantuan Sara Hidup: Programme design considerations for cash transfer programming in Malaysia." Aug 2019. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf)
