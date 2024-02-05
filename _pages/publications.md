@@ -48,14 +48,15 @@ author_profile: false
 - C. Cheng and J. Mohamad, "Youth unemployment in Malaysia and the region," *Japan SPOTLIGHT*, vol. 1, pp. 49–53, 229 2020, Japan Economic Foundation. [PDF](https://www.jef.or.jp/journal/pdf/229th_Special_Article.pdf).
 
 ## Selected newspaper articles, opinion pieces
-- [Why we should welcome back GST](https://www.isis.org.my/2023/10/02/why-we-should-welcome-back-gst/), Edge Markets.
-- [Making FDI work for Malaysia;s development](https://www.isis.org.my/2022/09/10/making-trade-investment-work-for-malaysia/), Edge Markets.
+- [Why we should welcome back GST](https://www.isis.org.my/2023/10/02/why-we-should-welcome-back-gst/), Edge Markets, November 2023.
+- [Making FDI work for Malaysia;s development](https://www.isis.org.my/2022/09/10/making-trade-investment-work-for-malaysia/), Edge Markets, September 2022.
 - [When does a recession look like a recession?](https://www.isis.org.my/2021/04/20/when-does-a-recession-look-like-a-recession/), News Straits Times.
-- [Malaysia's youth in peril](https://www.isis.org.my/2021/05/01/malaysias-youth-in-peril/), C. Cheng, Welsh. B., MalaysiaKini.
-- [Making the invisible visible: Faces of poverty in Malaysia](https://www.isis.org.my/2020/04/05/making-the-invisible-visible-faces-of-poverty-in-malaysia/), C. Cheng, Welsh. B. MalaysiaKini.
+- [Malaysia's youth in peril](https://www.isis.org.my/2021/05/01/malaysias-youth-in-peril/), C. Cheng & B. Welsh, MalaysiaKini, May 2021.
+- [Making the invisible visible: Faces of poverty in Malaysia](https://www.isis.org.my/2020/04/05/making-the-invisible-visible-faces-of-poverty-in-malaysia/), C. Cheng & B. Welsh. MalaysiaKini, April 2020.
 
 
 ## Selected conference proceedings, presentations, talks, misc
-- C. Cheng. "Pandemic economics: the Malaysian economy and economic responses to Covid-19." Mar. 2021. [URL](https://www.isis.org.my/wp-content/uploads/2021/03/SIRIM-presentation.pdf).
-- C. Cheng. "Policies for the future of Malaysia’s youth." Jun. 2021. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf).
-- C. Cheng. "Bantuan Sara Hidup: Programme design considerations for cash transfer programming in Malaysia." Aug. 2019. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf).
+- **"Strengthening digital trade and digitalisation in Malaysia"** ISIS-Google report launch, February 2022. [PDF](https://www.isis.org.my/wp-content/uploads/2022/02/ISIS-Google-digital-trade-report-summary-presentation.pdf)
+- **"Pandemic economics: the Malaysian economy and economic responses to Covid-19."** Mar 2021. [URL](https://www.isis.org.my/wp-content/uploads/2021/03/SIRIM-presentation.pdf)
+- **"Policies for the future of Malaysia’s youth."** Jun 2021. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf)
+- **"Bantuan Sara Hidup: Programme design considerations for cash transfer programming in Malaysia."** Aug 2019. [PDF](https://www.isis.org.my/wp-content/uploads/2021/06/Policies-for-the-future-of-Malaysias-youth-Calvin-Cheng.pdf)
