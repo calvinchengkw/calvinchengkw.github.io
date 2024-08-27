@@ -24,7 +24,7 @@ For more detailed information on the above, please see specific pages on:
 <div style="background-color: #f0f0f0; padding: 10px; margin-bottom: 20px; border-left: 4px solid #2a7ae2;">
   [Policy paper] <strong><a href="https://www.isis.org.my/2024/06/12/building-a-cradle-to-grave-care-economy-for-malaysia-2/" style="text-decoration: none; color: #2a7ae2;">Building a cradle-to-grave care economy for Malaysia</a></strong>, M.H. Lee, C. Cheng, S. Agha and A. Farid, June 2024. 
    <br><br>
-  [Policy brief]<strong><a href="https://www.isis.org.my/2024/03/25/malaysias-progressive-wage-policy/" style="text-decoration: none; color: #2a7ae2;">Malaysia’s progressive wage policy: a guide to policy design considerations for effective implementation</a></strong>, C. Cheng, March 2024. 
+  [Policy brief] <strong><a href="https://www.isis.org.my/2024/03/25/malaysias-progressive-wage-policy/" style="text-decoration: none; color: #2a7ae2;">Malaysia’s progressive wage policy: a guide to policy design considerations for effective implementation</a></strong>, C. Cheng, March 2024. 
   
 </div>
 
