@@ -8,7 +8,7 @@ My work spans issues in applied economics, encompassing topics related to jobs, 
 
 ## ▶ Jobs, labour markets, and the world of work
 
-Most people spend a most of thier lives working (whether in market employment or in home production). I am interested in how the work affects our lives and how various factors -- ranging from technological change, skills education, demographic characteristics (youth, women, disadvantaged groups), and policy interventions -- shape the quality of work and its broader social and economic impacts. I am also interested in how work affects economic development and social progress on a macro level. 
+Most people spend a most of their lives working (whether in market employment or in home production). I am interested in how work affects our live, and how various factors -- ranging from technological change, education, demographic characteristics (youth, women, disadvantaged groups) -- shape the quality of work and its broader social and economic impacts. I am also interested in how work affects economic development and social progress on a macro level. 
 
 I am currently working on a project on <strong>AI and the future of work in Malaysia</strong> (with co-author Hanson Chong and others), exploring the impacts of generative artificial intelligence (specifically LLMs and related techology) will affect Malaysia's workers and labour markets in the coming years. Some background and preliminary research was presented at the Institute of Strategic and International Studies (ISIS) Malaysia's flagship <a href="/talks/2012-03-01-talk-praxis2024">PRAXIS 2024 conference</a>.
 
