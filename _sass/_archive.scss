@@ -41,7 +41,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $header-font-family;
 
   a + a {
     opacity: 0.5;
@@ -56,6 +56,16 @@
     border-bottom: none;
   }
 }
+
+//added date text thing
+.page__date {
+  font-size: $type-size-7; // Smaller font size (~12px)
+  color: $text-color; // Use a lighter color or a subtle gray
+  margin-bottom: 0.5em; // Reduce margin to bring it closer to the title
+  display: inline-block; // Keeps it in line with surrounding content
+}
+
+//
 
 .archive__item-excerpt {
   margin-top: 0;
