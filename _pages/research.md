@@ -8,7 +8,7 @@ My work spans issues in applied economics, encompassing topics related to jobs, 
 
 ## Jobs, labour markets, and the world of work
 
-Most people spend a most of their lives working (whether in market employment or in home production). I am interested in how work affects our live, and how various factors -- ranging from technological change, education, demographic characteristics (youth, women, disadvantaged groups) -- shape the quality of work and its broader social and economic impacts. I am also interested in how work affects economic development and social progress on a macro level. 
+We spend a most of their lives working (whether in market employment or in home production). I am interested in how work affects our lives, and how various factors -- ranging from technological change, education, demographic characteristics (youth, women, disadvantaged groups) -- shape the quality of work and its broader social and economic impacts. I am also interested in how work affects economic development and social progress on a macro level. 
 
 I am currently working on a project on <strong>AI and the future of work in Malaysia</strong> (with Hanson Chong and others), exploring the impacts of generative artificial intelligence (specifically LLMs and related techology) will affect Malaysia's workers and labour markets in the coming years. Some background and preliminary research was presented at the Institute of Strategic and International Studies (ISIS) Malaysia's flagship <a href="/talks/2012-03-01-talk-praxis2024">PRAXIS 2024 conference</a>.
 
@@ -16,7 +16,7 @@ Over the past few months, I have published policy briefs on <a href="https://www
 
 ## Social protection, benefit and transfer programmes
 
-Effective social protection systems help people live out their lives to their fullest capabilities. In this area, I am interested in how policies can help restore greater choice and autonomy to people to participate in social and economic life -- as well as the design and implementation of social transfer policies, including incentive mechanisms and financing.
+I am interested in how social protection and transfer programmes can help restore greater choice and autonomy for people to choose the social and economic lives they want to live. I am also interested in the policy design considerations of social transfer policies, including incentive mechanisms, targeting, and financing.
 
 I have worked on the <a href="https://www.isis.org.my/wp-content/uploads/2019/08/Bantuan-Sara-Hidup-Design-Considerations-fina.pdf">policy design considerations</a> of Malaysia's unconditional cash transfer programme (currently Sumbangan Tunai Rahmah, previously variously named BR1M, BSH, BPN) since 2018. This includes design aspects related to beneficiary <a href="https://www.isis.org.my/2018/09/13/making-br1m-work/">targeting,</a> coverage, benefit adequacy, and implementation of both the flagship transfer programme, as well as the <a href="https://www.isis.org.my/2020/04/02/evaluating-the-bpn-bsh-cash-transfers-in-the-%e2%80%8bprihatin%e2%80%8b-stimulus-package/">"crisis"</a> measures introduced in economic stimulus measures in 2020-2021.
 
