@@ -23,7 +23,6 @@ author_profile: false
    <br><br>
   <strong><a href="/posts/2024/01/retirement-wellbeing-1" style="text-decoration: none; color: #b03a2e;">Life after work: the causal effect of retirement on wellbeing in Malaysia</a></strong>, C. Cheng, 2023. 
   <br><br>
-  
 </div>
 
 
