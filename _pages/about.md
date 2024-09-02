@@ -20,8 +20,8 @@ For more detailed information on the above, please see specific pages on:
   4. My <a href="https://calvinchengkw.com/cv">Curriculum Vitae</a>
   5. <a href="https://calvinchengkw.com/presentation">Presentation</a> slides and talks I've done 
 
-## Highlights
-<div style="background-color: #a1887f; padding: 10px; margin-bottom: 20px; border-left: 4px solid #e8e8e8;">
+## Recent updates
+<div style="background-color: #e8e8e8; padding: 10px; margin-bottom: 20px; border-left: 4px solid #a1887f;">
    <strong><a href="https://www.isis.org.my/2024/06/12/building-a-cradle-to-grave-care-economy-for-malaysia-2/" style="text-decoration: none; color: #b03a2e;">Building a cradle-to-grave care economy for Malaysia</a></strong>, M.H. Lee, C. Cheng, S. Agha and A. Farid, June 2024. 
    <br><br>
   <strong><a href="https://www.isis.org.my/2024/03/25/malaysias-progressive-wage-policy/" style="text-decoration: none; color: #b03a2e;">Malaysia’s progressive wage policy: a guide to policy design considerations for effective implementation</a></strong>, C. Cheng, March 2024. 
