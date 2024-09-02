@@ -20,14 +20,16 @@ For more detailed information on the above, please see specific pages on:
   4. My <a href="https://calvinchengkw.com/cv">Curriculum Vitae</a>
   5. <a href="https://calvinchengkw.com/presentation">Presentation</a> slides and talks I've done 
 
-## Recent updates
-<div style="background-color: #f0f0f0; padding: 10px; margin-bottom: 20px; border-left: 4px solid #2a7ae2;">
-  [Policy paper] <strong><a href="https://www.isis.org.my/2024/06/12/building-a-cradle-to-grave-care-economy-for-malaysia-2/" style="text-decoration: none; color: #2a7ae2;">Building a cradle-to-grave care economy for Malaysia</a></strong>, M.H. Lee, C. Cheng, S. Agha and A. Farid, June 2024. 
+## Highlights
+<div style="background-color: #a1887f; padding: 10px; margin-bottom: 20px; border-left: 4px solid #e8e8e8;">
+   <strong><a href="https://www.isis.org.my/2024/06/12/building-a-cradle-to-grave-care-economy-for-malaysia-2/" style="text-decoration: none; color: #b03a2e;">Building a cradle-to-grave care economy for Malaysia</a></strong>, M.H. Lee, C. Cheng, S. Agha and A. Farid, June 2024. 
    <br><br>
-  [Policy brief] <strong><a href="https://www.isis.org.my/2024/03/25/malaysias-progressive-wage-policy/" style="text-decoration: none; color: #2a7ae2;">Malaysia’s progressive wage policy: a guide to policy design considerations for effective implementation</a></strong>, C. Cheng, March 2024. 
+  <strong><a href="https://www.isis.org.my/2024/03/25/malaysias-progressive-wage-policy/" style="text-decoration: none; color: #b03a2e;">Malaysia’s progressive wage policy: a guide to policy design considerations for effective implementation</a></strong>, C. Cheng, March 2024. 
+   <br><br>
+  <strong><a href="/posts/2024/01/retirement-wellbeing-1" style="text-decoration: none; color: #b03a2e;">Life after work: the causal effect of retirement on wellbeing in Malaysia</a></strong>, C. Cheng, 2023. 
+  <br><br>
   
 </div>
-
 
 <!--
 <div style="display: flex; justify-content: space-around; align-items: center;">
