@@ -57,19 +57,20 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 //
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fff;
-$code-background-color-dark : $light-gray;
-$header-text-color          : $darker-gray;   // make header colour darker than text colour to establish heirarchy
-$text-color: mix(#000, $gray, 50%); // A slightly lighter gray
-$border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #2a7ae2;
+$body-color: #f7f7f7;          // Off-white/light gray background
+$background-color: #f7f7f7;    // Matching body background color
+$code-background-color: #e8e8e8; // Slightly darker for code blocks
+$code-background-color-dark: #cccccc; // Darker gray for dark mode
+$header-text-color: #333333;   // Darker gray for header text
+$text-color: #4f4f4f;          // Dark gray for body text
+$border-color: #dddddd;        // Light gray for borders
+
+$primary-color: #b03a2e;       // Warm, muted dark red (Primary)
+$success-color: #d5a021;       // Warm, muted yellow (Accent)
+$warning-color: #f39c12;       // Slightly brighter yellow for warnings
+$danger-color: #c0392b;        // Slightly brighter red for errors
+$info-color: #a1887f;          // Soft, neutral gray (Secondary)
 
 /* brands */
 $behance-color              : #1769FF;
@@ -95,11 +96,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color: #0056b3; // Softer blue
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #000;
-$masthead-link-color-hover  : mix(#fff, $masthead-link-color, 25%);
+$link-color: #b03a2e; // Muted dark red (same as primary)
+$link-color-hover: #922d21; // Slightly darker red for hover
+$link-color-visited: #7b241c; // Even darker red for visited links
+$masthead-link-color: #333333; // Dark gray for masthead links
+$masthead-link-color-hover: #555555; // Slightly lighter gray for hover
 
 
 /*
