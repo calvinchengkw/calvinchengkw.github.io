@@ -14,7 +14,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Merriweather",Georgia, serif;
+$serif                      : "Merriweather", serif;
 $sans-serif                 : "Noto Sans","Inter","Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $header-serif               : "Merriweather","Playfair Display", serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
@@ -59,7 +59,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fff;
 $code-background-color-dark : $light-gray;
-$header-text-color: $darker-gray   // make header colour darker than text colour to establish heirarchy
+$header-text-color          : $darker-gray;   // make header colour darker than text colour to establish heirarchy
 $text-color: mix(#000, $gray, 50%); // A slightly lighter gray
 $border-color               : $lighter-gray;
 
