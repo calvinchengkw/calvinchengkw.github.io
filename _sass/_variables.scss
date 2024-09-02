@@ -30,7 +30,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
+$global-font-family         : $serif;
 $header-font-family         : $header-serif;
 $caption-font-family        : $serif;
 
@@ -59,6 +59,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fff;
 $code-background-color-dark : $light-gray;
+$header-text-color: $darker-gray   // make header colour darker than text colour to establish heirarchy
 $text-color: mix(#000, $gray, 50%); // A slightly lighter gray
 $border-color               : $lighter-gray;
 
