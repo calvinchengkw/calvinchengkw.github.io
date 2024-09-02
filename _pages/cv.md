@@ -54,5 +54,5 @@ redirect_from:
 Publications
 ======
 
-See list of selected publications <a href="https://calvinchengkw.github.io/publications">here</a> 
+See list of selected publications <a href="https://calvinchengkw.com/publications">here</a> 
 

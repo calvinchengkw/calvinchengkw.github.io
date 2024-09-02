@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My work spans issues in applied economics, encompassing topics related to jobs, labor markets, social protection, and economic development. Please see <a href="https://calvinchengkw.github.io/publications">here</a> for a longer list of recent research output and publications. 
+My work spans issues in applied economics, encompassing topics related to jobs, labor markets, social protection, and economic development. Please see <a href="https://calvinchengkw.com/publications">here</a> for a longer list of recent research output and publications. 
 
 ## Jobs, labour markets, and the world of work
 
