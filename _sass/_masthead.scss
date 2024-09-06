@@ -53,9 +53,17 @@
   }
 }
 
-/* .masthead__menu-item a {
-  color: #33364e; // replace with the color you want
-  &:hover {
-    color: #6c7ae9; // replace with the color you want on hover
-  }
-} */
+.masthead__menu-item a {
+  color: $link-color; // Default link color
+  text-decoration: none;
+}
+
+.masthead__menu-item.active a {
+  color: $primary-color; // Highlight color for the current page
+  font-weight: bold; // You can make it bold or apply other styles
+  border-bottom: 2px solid $primary-color; // Optional: underline or border to indicate it's active
+}
+
+.masthead__menu-item a:hover {
+  color: $link-color-hover; // Change color on hover for other links
+}
