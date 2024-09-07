@@ -338,4 +338,21 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 
+///New stuff for author sidebar try
+/* Default styling when there's a sidebar */
+.content-wrapper.with-sidebar {
+  width: 75%; /* Adjust this width as needed */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* Full-width styling when there's no sidebar */
+.content-wrapper.full-width {
+  width: 100%; /* Make the content span the full width of the page */
+  padding-left: 1em;
+  padding-right: 1em;
+  margin: 0 auto;
+}
 
