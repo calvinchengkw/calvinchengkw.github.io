@@ -60,6 +60,7 @@
 //added date text thing
 .page__date {
   font-size: $type-size-7; // Smaller font size (~12px)
+  font-family: $serif;//change font
   color: $text-color; // Use a lighter color or a subtle gray
   margin-bottom: 0.5em; // Reduce margin to bring it closer to the title
   display: inline-block; // Keeps it in line with surrounding content
