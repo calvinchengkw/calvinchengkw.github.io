@@ -257,7 +257,8 @@
 
 ///New stuff for author sidebar try
 /* Default content with sidebar */
-.archive {
+/* Default content with sidebar */
+.content-wrapper.with-sidebar {
   width: 75%; /* Adjust this width as needed */
   margin-left: auto;
   margin-right: auto;
@@ -266,7 +267,7 @@
 }
 
 /* Full-width content (no sidebar) */
-.archive.full-width {
+.content-wrapper.full-width {
   width: 100%; /* Full width when no sidebar */
   padding-left: 1em;
   padding-right: 1em;
