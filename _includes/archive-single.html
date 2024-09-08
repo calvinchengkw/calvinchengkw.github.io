@@ -36,10 +36,7 @@
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       </h2>
-
-      {% if post.read_time %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-      {% endif %}
+ 
 
       {% if post.date %}
         <p class="page__date">
@@ -48,11 +45,11 @@
         </p>
       {% endif %}
 
-      {% if post.excerpt and site.read_more != 'enabled' %}
+     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | truncatewords: 50 }}</p>
       {% elsif post.excerpt and site.read_more == 'enabled' %}
         <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-      {% endif %}
+      {% endif %} -->
     </article>
   </div>
 </div>

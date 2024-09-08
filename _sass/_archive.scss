@@ -42,6 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $header-font-family;
+  font-size: $type-size-3   /////changed size
 
   a + a {
     opacity: 0.5;
@@ -272,4 +273,32 @@
   padding-left: 1em;
   padding-right: 1em;
   margin: 0 auto;
+}
+
+///tags
+.all-tags {
+  margin-bottom: 2em;
+}
+
+.all-tags ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.all-tags li {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
+.all-tags a {
+  text-decoration: none;
+  background-color: $link-color;
+  padding: 0.3em 0.5em;
+  border-radius: 3px;
+  font-size: 0.9em;
+  color: $body-color;
+}
+
+.all-tags a:hover {
+  background-color: $link-color-hover;
 }
