@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download full CV as a PDF](/files/CV_2024 (1).pdf){: .btn download="Calvin Cheng_CV_2024"}
+[Download full CV as a PDF](/files/CV_Calvin Cheng 2025.pdf){: .btn download="Calvin Cheng_CV_2025"}
 <div style="text-align: center;">
   ...
 </div>
